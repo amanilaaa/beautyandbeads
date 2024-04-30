@@ -1,0 +1,50 @@
+/*!
+*    ______ _       _   _
+*    |  ____| |     | | (_)
+*    | |__  | | __ _| |_ _  ___ ___  _ __
+*    |  __| | |/ _` | __| |/ __/ _ \| '_ \
+*    | |    | | (_| | |_| | (_| (_) | | | |
+*    |_|    |_|\__,_|\__|_|\___\___/|_| |_|
+*
+*         https://www.flaticon.com
+*/
+
+@font-face {
+    font-family: "flaticon_mycollection";
+    src: url("./flaticon_mycollection.woff2?3766b1c2cb164ecc64d3950669baad14") format("woff2"),
+url("./flaticon_mycollection.woff?3766b1c2cb164ecc64d3950669baad14") format("woff"),
+url("./flaticon_mycollection.eot?3766b1c2cb164ecc64d3950669baad14#iefix") format("embedded-opentype"),
+url("./flaticon_mycollection.ttf?3766b1c2cb164ecc64d3950669baad14") format("truetype"),
+url("./flaticon_mycollection.svg?3766b1c2cb164ecc64d3950669baad14#flaticon_mycollection") format("svg")
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_mycollection !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-quality:before {
+    content: "\f101";
+    font-size: 120px;
+    color: #FB9AD1;
+}
+.flaticon-free-delivery:before {
+    content: "\f102";
+    font-size: 120px;
+    color: #FB9AD1;
+}
+.flaticon-credit-card:before {
+    content: "\f103";
+    font-size: 120px;
+    color: #FB9AD1;
+}
+
+
+
+
